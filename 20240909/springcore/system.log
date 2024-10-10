@@ -1,0 +1,11 @@
+2024-09-12 02:51:45,773 INFO [main] c.e.s.d.DeliveryServiceBeanEng [DeliveryServiceBeanEng.java:20] Delivering
+2024-09-12 02:51:52,107 INFO [main] c.e.s.d.DeliveryServiceBeanEng [DeliveryServiceBeanEng.java:20] Delivering
+2024-09-12 02:53:15,677 INFO [main] c.e.s.c.ChefBeanEng [ChefBeanEng.java:16] Cooking food
+2024-09-12 02:53:15,680 INFO [main] c.e.s.c.ChefBeanEng [ChefBeanEng.java:16] Cooking food
+2024-09-12 02:53:15,681 INFO [main] c.e.s.d.DeliveryServiceBeanEng [DeliveryServiceBeanEng.java:20] Delivering
+2024-09-12 02:53:22,344 INFO [main] c.e.s.c.ChefBeanEng [ChefBeanEng.java:16] Cooking food
+2024-09-12 02:53:22,347 INFO [main] c.e.s.c.ChefBeanEng [ChefBeanEng.java:16] Cooking food
+2024-09-12 02:53:22,348 INFO [main] c.e.s.d.DeliveryServiceBeanEng [DeliveryServiceBeanEng.java:20] Delivering
+2024-09-12 02:59:56 [main] INFO  c.e.springcore.chef.ChefBeanEng - Cooking food
+2024-09-12 02:59:56 [main] INFO  c.e.springcore.chef.ChefBeanEng - Cooking food
+2024-09-12 02:59:56 [main] INFO  c.e.s.deliver.DeliveryServiceBeanEng - Delivering
